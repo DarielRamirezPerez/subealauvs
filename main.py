@@ -627,9 +627,9 @@ def convert2calendar(update,bot:ObigramClient):
    # host = parserdata[0]
    # user = parserdata[1]
    # passw = parserdata[2]
-    host = 'https://moodle.uclv.edu.cu/'
-    user = 'noramirez'
-    passw = 'chircan*99'
+    host = 'https://uvs.ucm.cmw.sld.cu/'
+    user = 'capitan'
+    passw = 'd0801871234ºD'
     proxy = None
     if len(parserdata)>3:
         proxy = ProxyCloud.parse(parserdata[3])
